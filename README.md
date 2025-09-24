@@ -33,7 +33,7 @@ I imported the dataset into Power BI, performed data cleaning with Power Query, 
 .Profit Margin ([Profit] / [Revenue])
 .Used relationships to connect time, season, and rider tables.
 
-3.Dashboard Design
+4.Dashboard Design
 .KPI Cards → Revenue, Profit, Riders
 .Line & Column Chart → KPI Over Time
 .Bar Chart → Revenue by Season
